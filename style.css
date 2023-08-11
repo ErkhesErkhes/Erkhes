@@ -1,0 +1,35 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+.menu {
+  width: 100vw;
+  height: 50px;
+
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.active {
+  background-color: blue;
+}
+a {
+  padding: 20px;
+  color: white;
+}
+.Hauzie {
+  width: 100vw;
+  height: 100vh;
+
+  background: rgb(31,31,164);
+background: linear-gradient(90deg, rgba(31,31,164,1) 30%, rgba(31,31,164,1) 41%, rgba(8,214,0,1) 81%);
+  
+.Hauzie2 {
+  width: 50vh;
+  height: 25vh;
+width: 100vw;
+height: 100vh;
+background: rgb(31,31,164);
+background: linear-gradient(90deg, rgba(31,31,164,1) 55%, rgba(0,212,255,1) 84%);
